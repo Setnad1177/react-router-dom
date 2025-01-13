@@ -29,7 +29,7 @@ function App() {
                 </div>
                 <div className={styles.content}>
                     <Routes>
-                        <Route path={'/'} element={<Navigate to={'/page1'}/>}/>
+                        <Route path={'/'} element={<Navigate to={PATH.PAGE1}/>}/>
 
                         <Route path={PATH.PAGE1} element={<Adidas/>}/>
                         <Route path={PATH.PAGE2} element={<Puma/>}/>

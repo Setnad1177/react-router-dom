@@ -4,8 +4,10 @@ import {useParams} from "react-router-dom";
 
 export const Model = () => {
     const params=useParams()
-     const currentModel=adidasArr.find(el=>el.id===Number(params.id))
+    console.log(params)
+    const currentModel=adidasArr.find(el=>el.id===Number(params.id))
 
+    console.log(currentModel)
     return (
         <div style={{textAlign:'center'}}>
             {currentModel
