@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/react-router-dom/static/css/main.0ec48e90.css",
-    "main.js": "/react-router-dom/static/js/main.d303cba2.js",
+    "main.js": "/react-router-dom/static/js/main.1f0c596f.js",
     "static/js/453.c06d755b.chunk.js": "/react-router-dom/static/js/453.c06d755b.chunk.js",
     "static/media/PostMove_Mid_Cloudfoam_Super_Lifestyle_Basketball_Mid_Classic_Shoes_Black_GY7163_01_standard.webp": "/react-router-dom/static/media/PostMove_Mid_Cloudfoam_Super_Lifestyle_Basketball_Mid_Classic_Shoes_Black_GY7163_01_standard.4c2aceb4853292b5eab9.webp",
     "static/media/AdiFOM_TRXN_Shoes_Black_IG7453_01_standard.webp": "/react-router-dom/static/media/AdiFOM_TRXN_Shoes_Black_IG7453_01_standard.b43badfb5bc18129337b.webp",
     "static/media/Superstar_XLG_Shoes_Black_IG9777_01_standard.webp": "/react-router-dom/static/media/Superstar_XLG_Shoes_Black_IG9777_01_standard.bfcb34a2e48044d7f26f.webp",
     "index.html": "/react-router-dom/index.html",
     "main.0ec48e90.css.map": "/react-router-dom/static/css/main.0ec48e90.css.map",
-    "main.d303cba2.js.map": "/react-router-dom/static/js/main.d303cba2.js.map",
+    "main.1f0c596f.js.map": "/react-router-dom/static/js/main.1f0c596f.js.map",
     "453.c06d755b.chunk.js.map": "/react-router-dom/static/js/453.c06d755b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ec48e90.css",
-    "static/js/main.d303cba2.js"
+    "static/js/main.1f0c596f.js"
   ]
 }
